@@ -1,0 +1,7 @@
+一、netty的核心组件：
+	1.Channel
+	2.回调
+	3.Future
+	4.事件和ChannelHandler
+
+	
