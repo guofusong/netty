@@ -1,7 +1,7 @@
-Ò»¡¢nettyµÄºËĞÄ×é¼ş£º
+ä¸€ã€nettyçš„æ ¸å¿ƒç»„ä»¶
 	1.Channel
-	2.»Øµ÷
+	2.å›è°ƒ
 	3.Future
-	4.ÊÂ¼şºÍChannelHandler
+	4.äº‹ä»¶å’ŒChannelHandler
 
 	
