@@ -4,4 +4,23 @@
   <artifactId>netty-pom</artifactId>
   <version>1.0.0</version>
   <packaging>pom</packaging>
+  
+  <properties>
+  	<netty-all.version>5.0.0.Alpha2</netty-all.version>
+  </properties>
+  
+  <dependencyManagement>
+  
+  	<dependencies>
+  	
+		<dependency>
+		    <groupId>io.netty</groupId>
+		    <artifactId>netty-all</artifactId>
+		    <version>${netty-all.version}</version>
+		</dependency>
+  	
+  	</dependencies>
+  	
+  </dependencyManagement>
+  
 </project>
